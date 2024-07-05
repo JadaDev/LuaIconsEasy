@@ -1,5 +1,7 @@
 # LUA Item IconEasy
 
+C++ Version : https://github.com/JadaDev/Enable_LUA_ICON_CPP/tree/main
+
 ![GetItemIcon](https://raw.githubusercontent.com/JadaDev/Enable_LUA_ICON_CPP/main/GetItemIcon%20With%20GetItemLink.png)
 
 ## Overview
