@@ -1,5 +1,7 @@
 # LUA Item IconEasy
 
+![GetItemIcon](https://raw.githubusercontent.com/JadaDev/Enable_LUA_ICON_CPP/main/GetItemIcon%20With%20GetItemLink.png)
+
 ## Overview
 
 This Lua script is designed to enhance the visual representation of items by fetching their icons dynamically from your database table (`item_template` TrinityCore). It formats the retrieved icons for easy integration into menus or UI elements.
